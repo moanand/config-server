@@ -17,4 +17,4 @@ eureka:
     service-url:
       default-zone: http://localhost:8761/eureka/
 message:
-  data: Hello from Department Service updated version 3.0
+  data: Hello from Department Service spring cloud version
