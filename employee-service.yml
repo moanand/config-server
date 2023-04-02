@@ -15,4 +15,5 @@ eureka:
   client:
     service-url:
       default-zone: http://localhost:8761/eureka/
-
+message:
+  data: Hello from Employee Service
